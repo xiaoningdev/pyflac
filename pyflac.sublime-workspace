@@ -1,0 +1,1586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"row",
+				"rows_count	Default"
+			],
+			[
+				"ro",
+				"rows_count	Default"
+			],
+			[
+				"cl",
+				"clear_results"
+			],
+			[
+				"avi",
+				"available_threads	Default"
+			],
+			[
+				"threa",
+				"threads	Default"
+			],
+			[
+				"ser",
+				"server_config	Default"
+			],
+			[
+				"re",
+				"records"
+			],
+			[
+				"lo",
+				"loan_numbers	Default"
+			],
+			[
+				"l",
+				"loan_numbers"
+			],
+			[
+				"table",
+				"table_name"
+			],
+			[
+				"pa",
+				"pairs	Default"
+			],
+			[
+				"p",
+				"pair	Default"
+			],
+			[
+				"par",
+				"pairs	Default"
+			],
+			[
+				"da",
+				"data_list	Default"
+			],
+			[
+				"data",
+				"data_list	Default"
+			],
+			[
+				"rsu",
+				"results	Default"
+			],
+			[
+				"loan",
+				"loan_row	Default"
+			],
+			[
+				"to",
+				"total_rows_count	Default"
+			],
+			[
+				"for",
+				"format	memoryview"
+			],
+			[
+				"loa",
+				"loan_raw	Default"
+			],
+			[
+				"calcu",
+				"calculation"
+			],
+			[
+				"ta",
+				"table_name	Default"
+			],
+			[
+				"sm",
+				"smm_adjusted_principle	Default"
+			],
+			[
+				"mo",
+				"monthly_payment	Default"
+			],
+			[
+				"prin",
+				"principle	Default"
+			],
+			[
+				"redu",
+				"reduction	Default"
+			],
+			[
+				"pr",
+				"principle	Default"
+			],
+			[
+				"F",
+				"formular"
+			],
+			[
+				"fi",
+				"filename	Default"
+			],
+			[
+				"_",
+				"_name	Default"
+			],
+			[
+				"kwa",
+				"kwargs	Default"
+			],
+			[
+				"loca",
+				"location_preferences	Default"
+			],
+			[
+				"app",
+				"approved"
+			],
+			[
+				"appl",
+				"applicant_name"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ar",
+				"areas	Default"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"kw",
+				"kwargs	Default"
+			],
+			[
+				"val",
+				"values	Default"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"m",
+				"ManageSource"
+			],
+			[
+				"end",
+				"end_dt"
+			],
+			[
+				"mod",
+				"models	Default"
+			],
+			[
+				"sch",
+				"schedule_type"
+			],
+			[
+				"asse",
+				"assessment"
+			],
+			[
+				"doc",
+				"doctor_appointment"
+			],
+			[
+				"Acc",
+				"Acceptable"
+			],
+			[
+				"fo",
+				"form	Default"
+			],
+			[
+				"job",
+				"job_id	Default"
+			],
+			[
+				"fa",
+				"factory	Default"
+			],
+			[
+				"resu",
+				"result	Default"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"sta",
+				"staff_id"
+			],
+			[
+				"date",
+				"datetime	Default"
+			],
+			[
+				"ut",
+				"utc_convert	Default"
+			],
+			[
+				"fil",
+				"fill_job	Default"
+			],
+			[
+				"start",
+				"start_dt"
+			],
+			[
+				"servi",
+				"services	Default"
+			],
+			[
+				"ex",
+				"excluded_keys	Default"
+			],
+			[
+				"noti",
+				"notifi_data	Default"
+			],
+			[
+				"Con",
+				"Confirmed"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"Ser",
+				"Services	Default"
+			],
+			[
+				"op",
+				"options	Default"
+			],
+			[
+				"email",
+				"emails"
+			],
+			[
+				"clean",
+				"cleanups	Default"
+			],
+			[
+				"json",
+				"jsonify	Default"
+			],
+			[
+				"Us",
+				"UserModel	Default"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"stat",
+				"status_code	Default"
+			],
+			[
+				"bar",
+				"barcode_text"
+			],
+			[
+				"patient",
+				"patient_medicals"
+			],
+			[
+				"reus",
+				"results	Default"
+			],
+			[
+				"pati",
+				"patient_id	Default"
+			],
+			[
+				"file",
+				"file_id	Default"
+			],
+			[
+				"all",
+				"all_attachments	Default"
+			],
+			[
+				"atta",
+				"attachments"
+			],
+			[
+				"ses",
+				"session_id	Default"
+			],
+			[
+				"video",
+				"video_link	Default"
+			],
+			[
+				"con",
+				"console	Default"
+			],
+			[
+				"com",
+				"company	Default"
+			],
+			[
+				"from",
+				"from_user	Default"
+			],
+			[
+				"sess",
+				"session_id	Default"
+			],
+			[
+				"from_",
+				"from_user_id"
+			],
+			[
+				"clear",
+				"clearInterval()	Window"
+			],
+			[
+				"smartcare",
+				"smartcareglobal"
+			],
+			[
+				"has",
+				"hasAttributes()"
+			],
+			[
+				"en",
+				"endpoint	Default"
+			],
+			[
+				"save",
+				"saved_session	Default"
+			],
+			[
+				"strea",
+				"streams"
+			],
+			[
+				"to_",
+				"to_user_id"
+			],
+			[
+				"to_use",
+				"to_user_ids	Default"
+			],
+			[
+				"str",
+				"strip()	string"
+			],
+			[
+				"patien",
+				"patient"
+			],
+			[
+				"js",
+				"jsonify	Default"
+			],
+			[
+				"me",
+				"medical	Default"
+			],
+			[
+				"ext",
+				"external"
+			],
+			[
+				"Pro",
+				"providers"
+			],
+			[
+				"exi",
+				"exist"
+			],
+			[
+				"up",
+				"upload_file"
+			],
+			[
+				"na",
+				"name_id"
+			],
+			[
+				"map",
+				"mapping_data	Default"
+			],
+			[
+				"inci",
+				"incident_type"
+			],
+			[
+				"ma",
+				"mapping_data	Default"
+			],
+			[
+				"al",
+				"alert	Default"
+			],
+			[
+				"get",
+				"get_factory	Default"
+			],
+			[
+				"push",
+				"push_to	Default"
+			],
+			[
+				"se",
+				"seniorcare"
+			],
+			[
+				"fac",
+				"factory_type"
+			],
+			[
+				"statu",
+				"status_code	Default"
+			],
+			[
+				"fun",
+				"function	Default"
+			],
+			[
+				"mapp",
+				"mapping_data	Default"
+			],
+			[
+				"it",
+				"items()	dict"
+			],
+			[
+				"reloa",
+				"reload_url	Default"
+			],
+			[
+				"att",
+				"atta	Default"
+			],
+			[
+				"medi",
+				"medical"
+			],
+			[
+				"sha",
+				"shared	Default"
+			],
+			[
+				"find",
+				"find_one	Default"
+			],
+			[
+				"result",
+				"result	Default"
+			],
+			[
+				"mea",
+				"measures	Default"
+			],
+			[
+				"vi",
+				"vital	Default"
+			],
+			[
+				"db",
+				"db_col"
+			],
+			[
+				"out",
+				"out_data	Default"
+			],
+			[
+				"staff",
+				"staff_id	Default"
+			],
+			[
+				"cu",
+				"customer_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/plot.py",
+			"settings":
+			{
+				"buffer_size": 1118,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/poisson1d.py",
+			"settings":
+			{
+				"buffer_size": 1416,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhangxn/workspace/trading/discountings/test_data.py",
+		"/Users/zhangxn/workspace/trading/discountings/utils.py",
+		"/Users/zhangxn/workspace/trading/discountings/main.py",
+		"/Users/zhangxn/workspace/trading/discountings/config.py",
+		"/Users/zhangxn/workspace/trading/discountings/db.py",
+		"/Users/zhangxn/workspace/trading/discountings/data/data.sql",
+		"/Users/zhangxn/workspace/trading/discountings/data/table.sql",
+		"/Users/zhangxn/workspace/trading/discountings/call_python.php",
+		"/Users/zhangxn/workspace/trading/ssh/server_pem",
+		"/Users/zhangxn/workspace/trading/python-mysql-php/callpython.php",
+		"/Users/zhangxn/workspace/trading/poly/callpython.php",
+		"/Users/zhangxn/workspace/trading/discountings/requirement.txt",
+		"/Users/zhangxn/workspace/trading/discountings/data/Python Test.xlsx",
+		"/Users/zhangxn/workspace/trading/poly/requirement.txt",
+		"/Users/zhangxn/workspace/trading/poly/polynomials.py",
+		"/Users/zhangxn/workspace/trading/python-mysql-php/buckets.py",
+		"/Users/zhangxn/workspace/trading/python-mysql-php/requirement.txt",
+		"/Users/zhangxn/workspace/trading/python-mysql-php/table.sql",
+		"/Users/zhangxn/workspace/trading/python-mysql-php/data.sql",
+		"/Users/zhangxn/workspace/trading/interest.py",
+		"/Users/zhangxn/workspace/trading/models.py",
+		"/Users/zhangxn/workspace/trading/main.py",
+		"/Users/zhangxn/百度云同步盘/sync/mob/use git.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/use git_20160128230618.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/sfLogin.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/sfLogin_20160128230618.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/servers_20160128230618.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/servers.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/other-login.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/other-login_20160128230618.txt",
+		"/Users/zhangxn/workspace/nick/odoo/README.md",
+		"/Users/zhangxn/百度云同步盘/sync/mob/managesource.txt",
+		"/Users/zhangxn/百度云同步盘/sync/mob/my_acount.txt",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/models.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/controllers.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/approval_workflow.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/views/views.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/booking_workflow.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/account_view.xml",
+		"/Users/zhangxn/workspace/nick/odoo/openerp/fields.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/views/application_form.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/views/templates.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/account_invoice_workflow.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/account_invoice_view.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/account_invoice.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/security/ir.model.access.csv",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/data/demo.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/data/location_preferred.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/product.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/account_bank.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/account.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_frontend/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/product_view.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/wizard/account_invoice_state.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/entity_html_form/entity_html_form.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/account/views/account.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/sale_rental/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/sale/sale_view.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_crm/controllers/main.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_crm/views/website_crm.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/models/product.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/models/sale_order.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/controllers/main.py",
+		"/Users/zhangxn/workspace/nick/odoo/openerp/models.py.dump",
+		"/Users/zhangxn/workspace/nick/odoo/openerp/models.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/static/src/css/bookings.css",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_frontend/static/src/css/style.css",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/reports/common.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/views/menus.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/README.rst",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/views/backend.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_frontend/views/frontend.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/data/demo.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/views/templates.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/static/src/css/backend.css",
+		"/Users/zhangxn/workspace/nick/odoo/openerp/addons/base/static/src/css/description.css",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website/views/website_templates.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website/controllers/main.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/auth_oauth/controllers/main.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/crm/crm.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/crm/security/crm_security.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/crm/crm_lead.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/crm/security/ir.model.access.csv",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/data/data.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/web/views/webclient_templates.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website/views/website_views.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/crm/crm_view.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/data/data.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/data/demo.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/views/templates.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/static/description/index.html",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/data/data.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/templates.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/views/views.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/security/website_sale.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/views/payment.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/views/sale_order.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/security/website_sale.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings/views/views.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/templates.xml",
+		"/Users/zhangxn/workspace/nick/odoo/openerp/tools/config.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_frontend/views/booking.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/demo.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/views.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_frontend/static/src/css/frontend.css",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website_sale/controllers/__init__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings/__init__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/web/static/src/js/chrome.js",
+		"/Users/zhangxn/workspace/nick/odoo/.gitignore",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/views/options.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/views/pages.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addonsExt/theme_manage_space_backend/views/snippets.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_managesource/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_managespace/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_manage_space_frontend/__openerp__.py",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_manage_space_frontend/views/frontend.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/antiun_backend_theme/views/backend.xml",
+		"/Users/zhangxn/workspace/nick/odoo/.git/config",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_manage_source_frontend/static/src/css/style.css",
+		"/Users/zhangxn/workspace/nick/odoo/addons/website/static/src/css/website.css",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_manage_source_frontend/static/src/css/frontend.css",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_manage_source_frontend/views/frontend.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_manage_source_frontend/views/booking.xml",
+		"/Users/zhangxn/workspace/nick/odoo/addons/theme_manage_source_frontend/views/units.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/zhangxn/workspace/trading/discountings",
+			"",
+			"/Users/zhangxn/workspace/nick/odoo/addonsExt/bookings",
+			"/Users/zhangxn/workspace/nick/odoo/addons/account",
+			"/Users/zhangxn/workspace/nick/odoo/addons",
+			"/Users/zhangxn/workspace/nick/odoo/addons/website_sale",
+			"*.css",
+			"/Users/zhangxn/workspace/nick/odoo/addons",
+			"/Users/zhangxn/workspace/nick/odoo/addonsExt",
+			"/Users/zhangxn/workspace/nick/odoo/addons/website_sale",
+			"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings",
+			"",
+			"/Users/zhangxn/workspace/nick/odoo/addonsExt/website_bookings",
+			"*.xml",
+			"*.*",
+			"*.xml",
+			"*.css",
+			"*.py, *.js, *.html",
+			"*.py, *.js",
+			"*.py",
+			"*.py, *.html, *.js",
+			"*.py",
+			"*.css, *.js",
+			"*.css",
+			"*.py, *.html",
+			"*.py",
+			"*.js, *.html",
+			"*.py",
+			"*.py, *.html, *.js",
+			"*.py, *.html",
+			"*.js",
+			"",
+			"*.py",
+			"*.py, *.html, *.js",
+			"*.py, *.html",
+			"*.py",
+			"*.py, *.html",
+			"*.py",
+			"*.py, *.html, *.css",
+			"*.py, *.html",
+			"*.css",
+			"*.py",
+			"*.css",
+			"*.py, *.html, *.js",
+			"*.py, *.html",
+			"*.py",
+			"*.css, *.html, *.js, *.py",
+			"*.css, *.html, *.js",
+			"*.css",
+			"*.py, *.html, *.js",
+			"*.py, *.html, *.css",
+			"*.py",
+			"*.css",
+			"*.py, *.html, *.js, *.css",
+			"*.py, *.html, *.js",
+			"*.css",
+			"*.html, *.py, *.js",
+			"*.html, *.py",
+			"*.html",
+			"*.css",
+			"*.py, *.html, *.js",
+			"*.css, *.html, *.js",
+			"*.py, *.html, *.js",
+			"*.css, *.js",
+			"*.py, *.html, *.js",
+			"*.py, *.html",
+			"*.py",
+			"*.py, *.html",
+			"*.py",
+			"*.py, *.html, *.js",
+			"*.py, *.html, *.js, *.css",
+			"*.py, *.html, *.js",
+			"*.py, *.css",
+			"*.py, *.html",
+			"*.py",
+			"*.py, *.html, *.js",
+			"*.py, *.html, *.js, *.css",
+			"*.py, *.html, *.js",
+			"*.css",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.css",
+			"*.html, *.css",
+			"*.py, *.html, *.js",
+			"*.py",
+			"*.txt",
+			"*.py, *.html, *.js",
+			"*.py, *.html",
+			"*.css",
+			"*.py, *.html, *.js",
+			"*.py, *.html",
+			"*.py",
+			"*.html, *.js",
+			"*.html, *.py, *.js",
+			"*.html, *.py",
+			"*.html",
+			"*.css",
+			"*.txt",
+			"*.py",
+			"*.txt",
+			"*.py",
+			"*.py, *.html",
+			"*.js",
+			"*.py, *.html, *.js",
+			"*.py, *.html, *.css",
+			"*.py, *.html",
+			"*.py",
+			"*.py, *html, *.js",
+			"*.py",
+			"*.py, *.js, *.html",
+			"*.html",
+			"*.py, *.css, *.html",
+			"*.py, *.css",
+			"*.py",
+			"*.css, *.html",
+			"*.py, *.html, *.js",
+			"*.py, *.html",
+			"*.py",
+			"*.py, *.html, *.css",
+			"*.py, *.html",
+			"*.py",
+			"*.txt",
+			"*.py",
+			"*.py, *.js",
+			"*.py",
+			"*.*",
+			"*.txt"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_count",
+			"write_data",
+			"raw",
+			"github",
+			"application_status",
+			"state",
+			"btn-sm",
+			"booking.application.form",
+			"html",
+			"model_booking",
+			"bookings.application_additional_household_member",
+			"bookings.application_location_preference",
+			"application_location_preference",
+			"bookings.bookings",
+			"bookings_application_form",
+			"bookings.application_form",
+			"bookings.application",
+			"bookings.Application",
+			"bookings.application_form",
+			"self.write",
+			"action_date_assign",
+			"generate_form",
+			"invoice_cancel",
+			"invoice_open",
+			"application_approve",
+			"workflow",
+			"application_form_id",
+			"sales order",
+			"sales",
+			"ir.actions.act_window",
+			"applicant_full_name",
+			"kwarg[1]",
+			"required=\"True\" ",
+			"additional_household_member_have_income",
+			">False<",
+			">True<",
+			"false",
+			"fields.Boolean(",
+			"boolean",
+			">false<",
+			">true<",
+			"oe_grid",
+			"oe_product",
+			"oe_grid",
+			"row",
+			"box-shadow:",
+			"oe_form",
+			"oe_form_sheetbg",
+			"oe_form_sheet",
+			"return redirect",
+			"redirect",
+			"lead",
+			"create_lead",
+			"Create New Booking",
+			"product.public.category",
+			"Open Source e-Commerce",
+			"website.menu",
+			"Shop",
+			"website_sale.products",
+			"website_sale.products_item",
+			"data inherit_id=\"website_sale.products_item\"",
+			"Odoo",
+			"addons",
+			"managesource",
+			"4089",
+			"Powered by",
+			"navbar-left",
+			"submenu",
+			"navbar",
+			"github",
+			"digit",
+			"jobs",
+			".jobs.find",
+			"get_enabled_healthcare_systems",
+			"JobListModel",
+			"JobModel",
+			"JobsView",
+			"get_query_filter_args",
+			".jobs",
+			"Data_formatter_for_adding",
+			"task_facto",
+			"filter_job_info",
+			"schedule_time",
+			"output_formatter_baseinfo",
+			"locattz2utc",
+			"tojson",
+			"Fancybox_Loaded",
+			"schedule_time",
+			"dispatch.jobs",
+			"dispatch/jobs",
+			"dispatch.jobs",
+			"videoUrl",
+			"rtc-toolbar",
+			"webcam-bg",
+			"webrtc_iframe",
+			"client",
+			"getLocalStream",
+			"localRtc.start",
+			"remoteRtc",
+			"Remote_Video_Closed",
+			"auth_failure",
+			"webrtc_video_closed",
+			"remote video",
+			"Remote_Video_Closed",
+			"camera.stream.stop",
+			"camera.stream.stop\ncamera.stream.stop",
+			"#",
+			"localStream.toggleCam",
+			"You have a new ",
+			"You have a new webrtc video invitation",
+			"IOUtilsView.HandleMessage",
+			"unauthorized",
+			"unauthorized_handler",
+			"url_for_webrtc_verify",
+			"VerifySessionInstance",
+			"VerifySessionInstance_OK",
+			"#",
+			"you are not",
+			"base64",
+			"Vitals_alerts_finder",
+			"make_vitals_alerts_finder",
+			"get_vitals_alerts",
+			"patient_id = SelectFieldFO",
+			"push_notification",
+			"new_patient_popup.html",
+			"CustomersView:new_customer_ajax",
+			"init_datetime_picker",
+			"overview-content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"row",
+			"booking.application.location.preference",
+			" eval=\"0\"><",
+			" eval=\"1\"><",
+			">False<",
+			">True<",
+			"TaskListModel",
+			"TaskModel",
+			"TasksView",
+			"unassigned",
+			"success",
+			"\"),",
+			"\", \"",
+			"\". \"",
+			"(",
+			"\"),",
+			"\", \"",
+			"(\"",
+			"\"),",
+			"\", \"",
+			"    (\"",
+			"\"),",
+			"\", \"",
+			"\", ",
+			"(",
+			"str",
+			"StaffForm",
+			"StaffListModel",
+			"StaffModel",
+			"shared/search-form.html",
+			"patient",
+			"SeniorcareView",
+			"\")),",
+			"\", _(\"",
+			"\", \"",
+			"\", ",
+			"(",
+			"dashboard-map",
+			"0.000000",
+			"LoadsView:",
+			"ManifestsView:",
+			"ManifestView:",
+			"@memoize_cache",
+			"memoize_cache",
+			"sc_test_user@maildrop.cc",
+			".smartcareglobal.com",
+			"smartcare_testing",
+			"customers/new_patient.html",
+			"customers/",
+			"-",
+			"PatientForm",
+			"can_remove_patients",
+			"can_edit_patients",
+			"can_add_patients",
+			"can_view_patients",
+			"can_view_own_prescription",
+			"can_remove_prescription",
+			"can_add_prescription",
+			"can_view_prescription",
+			"can_view_own_visit",
+			"can_accept_visit",
+			"can_view_visit",
+			"can_remove_visit",
+			"can_push_visit",
+			"view_staff",
+			"$(\"#customer_id\").change(function(event) {",
+			"VitalsModel",
+			"VitalsModels",
+			"VitalsView",
+			"vitals",
+			"vitals.",
+			"Vitals",
+			"VitalsModel",
+			"customer.get('name')",
+			"Visit #",
+			"Schedule",
+			"cssutils",
+			"rjsmin",
+			"#ee582e",
+			"btn-primary",
+			"href=\"javascript:void(0)\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/plot.py",
+					"settings":
+					{
+						"buffer_size": 1118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								189
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tests/poisson1d.py",
+					"settings":
+					{
+						"buffer_size": 1416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 367.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"char",
+				"smartfleet/viewer/static/js/widgets/charts.js"
+			],
+			[
+				"main",
+				"smartfleet/viewer/static/js/widgets/main.js"
+			],
+			[
+				"sub",
+				"smartfleet/viewer/templates/analysis/performance/subMenus.html"
+			],
+			[
+				"base",
+				"smartfleet/viewer/themes/default/templates/base.html"
+			],
+			[
+				"lay",
+				"smartfleet/viewer/static/js/widgets/layout.js"
+			],
+			[
+				"cha",
+				"smartfleet/viewer/static/js/widgets/charts.js"
+			],
+			[
+				"me",
+				"smartfleet/viewer/static/js/widgets/messages.js"
+			],
+			[
+				"tok",
+				"smartfleet/viewer/static/js/widgets/tokbox.js"
+			],
+			[
+				"ma",
+				"smartfleet/viewer/static/js/widgets/main.js"
+			],
+			[
+				"sse",
+				"smartfleet/viewer/static/js/widgets/sse.js"
+			],
+			[
+				"mess",
+				"smartfleet/viewer/static/js/widgets/messages.js"
+			],
+			[
+				"han",
+				"smartfleet/message/handlers.py"
+			],
+			[
+				"local",
+				"smartfleet/settings/local.py"
+			],
+			[
+				"runse",
+				"smartfleet/runserver.py"
+			],
+			[
+				"runser",
+				"smartfleet/runserver.py"
+			],
+			[
+				"tokbo",
+				"smartfleet/tests/api/tokbox_test.py"
+			],
+			[
+				"views",
+				"smartfleet/viewer/extensions/obd/geotab/views.py"
+			],
+			[
+				"ss",
+				"smartfleet/viewer/static/js/widgets/sse.js"
+			],
+			[
+				"view",
+				"smartfleet/viewer/views.py"
+			],
+			[
+				"util",
+				"smartfleet/viewer/static/js/utils.js"
+			],
+			[
+				"even",
+				"smartfleet/viewer/static/js/widgets/events.js"
+			],
+			[
+				"m",
+				"smartfleet/viewer/static/js/main.js"
+			],
+			[
+				"uti",
+				"smartfleet/viewer/static/js/utils.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true
+}

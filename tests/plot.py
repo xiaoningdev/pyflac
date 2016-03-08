@@ -4,7 +4,7 @@
 
    Author: Xiaoning Zhang
 
-   @copyright: (c) 2015 by Xiaoning Zhang (zhangxn@walkingsoft.com.cn).
+   @copyright: (c) 2016 by Xiaoning Zhang (xiaoningdev@gmail.com).
    @license: GPL(GNU General Public License).
 """
 
